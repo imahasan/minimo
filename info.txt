@@ -1,0 +1,25 @@
+-------------
+used fonts
+incolsolota regular
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inconsolata&display=swap" rel="stylesheet">
+font-family: 'Inconsolata', monospace;
+---------------
+
+-------------
+playfairdisplay regular
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap" rel="stylesheet">
+font-family: 'Playfair Display', serif;
+--------------
+
+--------
+ubuntu light
+<link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap" rel="stylesheet">
+font-family: 'Ubuntu', sans-serif;
+-----
+
+different colors:
+
+Ash font #626262;
+pink font #b4ad9e;
