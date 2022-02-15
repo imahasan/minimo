@@ -194,10 +194,20 @@ header{
 .container3 button{
   width: 160px;
   height: 55px;
+  font-family: 'Playfair Display', serif;
+  font-size: 20px;
+  color: #626262;
+  border: 1px solid #626262;
+  border-radius: 5px;
   display: block;
   margin: 0 auto;
   background: transparent;
   cursor: pointer;
+  transition: .3s;
+}
+.container3 button:hover {
+  color: white;
+  background-color: #626262;
 }
 /* load end */
 
@@ -227,9 +237,9 @@ header{
   color: #000000;
   transform: 0.3s;
 }
-.sec_left p a:hover{
+/* .sec_left p a:hover{
   border-bottom: 1px solid #626262;
-}
+} */
 .sec_right{
   float: right;
 }
